@@ -1,2 +1,2 @@
-# Bootcamp-GFT---DIO
+# Bootcamp-GFT-DIO
 Projeto do treinamento GFT - DIO
